@@ -9,23 +9,21 @@
 
 ## Nom
 
-Skywalker
+Yahyazadeh
 
 ## Prénom
 
-Luke
+Saviz
 
-## Courte présentation
+## Courte présentatio
 
-Bonjour,
+Hello,
 
-Je m'appelle Luke.
-J'aime bien piloter des vaisseaux spatiaux en mode manuel.
-Et je aussi parler aux robots.
-Grand voyageur, j'ai visité plusieurs planètes.
-Malheureusement, mes voyages ne se terminent pas toujours bien.
+My name is Saviz 
+It has been a year that I have started programming and I enjoy it alot.
 
-Je suis tantôt impulsif, tantôt grognon.
-Et j'ai une famille un peu compliquée.
 
-J'ai hâte d'apprendre à programmer en JavaScript.
+I had worked as a flight attendant for quit a long time and I hope to use my vision and experiences in my new field of interest to creat something new and usefull.
+
+I believe in freedom and equality and I take life serious eventhough in my opinion it is not serious at all.
+well I have my reasons.
