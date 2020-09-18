@@ -27,3 +27,5 @@ I had worked as a flight attendant for quit a long time and I hope to use my vis
 
 I believe in freedom and equality and I take life serious eventhough in my opinion it is not serious at all.
 well I have my reasons.
+
+&ythytytyuytut
